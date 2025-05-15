@@ -1,25 +1,41 @@
 # TravelTide Rewards Program Segmentation
 
-## Project Overview
-This project aims to support TravelTide's rewards program by identifying key customer segments based on behavioral patterns and matching them with the most suitable perks. The analysis focused on data from January 2023 onwards, using index-based segmentation.
+## 📊 Project Overview
+This project identifies key customer segments for TravelTide’s rewards program based on behavioral data. The goal was to match each segment with the most suitable perks to increase engagement and conversion.
 
-## Folder Structure
-- `/data`: Contains all relevant CSV files used in the analysis.
-- `/notebooks`: Jupyter Notebook with data cleaning, feature engineering, and segmentation code.
-- `/reports`: Executive Summary and Detailed Report PDFs.
-- `/dashboards`: Tableau screenshots and dashboard link.
+## 🗂 Folder Structure
+- `/data`: Contains download links to large datasets.
+- `/notebooks`: Jupyter Notebook with data processing and segmentation analysis.
+- `/reports`: Executive Summary and Detailed Report (PDF).
+- `/dashboards`: Tableau screenshots of segment visualizations.
 
-## Key Results
-- 5 customer segments identified: Comfort, Loyalty, Bargain, Adventure, Family.
+## 📁 Large Data Files
+Due to GitHub file size limitations (>100MB), large datasets are provided via external download links.  
+➡️ See `/data/data_links.txt` for Google Drive links to:
+- df_sessions_2.csv
+- df_flights_2.csv
+- users_features_2.csv
+- df_hotels.csv
+- df_perks.csv
+
+## 🧮 Methodology
+- Data from April 2021 to July 2023 (main focus: 2023).
+- Users with ≥ 3 sessions considered for analysis.
+- Index-based segmentation (Loyalty, Bargain, Comfort, Adventure, Family).
 - Top 10% of users per segment selected for perk assignment.
-- Perk recommendations based on churn risk and user behavior.
-- Tableau dashboard used for interactive analysis.
+- Visual analysis with Tableau.
 
-## Tools & Technologies
-- Python (Pandas, Scikit-learn, Matplotlib)
-- SQL
-- Tableau
-- GitHub
+## ✅ Key Findings
+- Comfort & Loyalty Seekers are the largest and most valuable segments.
+- Family & Bargain Seekers show higher churn risk → priority for reactivation.
+- Personalized perks per segment improve relevance and efficiency.
 
-## Author
+## 🔧 Tools Used
+- SQL for data analysis.
+- Python (Pandas, Scikit-learn, Matplotlib) for data analysis & segmentation.
+- Tableau for interactive dashboards.
+- GitHub for project versioning & documentation.
+
+
+## 📝 Author
 Marcella Valente Ralser
