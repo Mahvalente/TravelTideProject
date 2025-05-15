@@ -1,0 +1,25 @@
+
+# TravelTide Data Files - External Links
+
+Due to GitHub file size limitations (>100MB), the following datasets are provided via Google Drive links.
+
+Please download the files manually if needed.
+
+---------------------------------------------------
+
+df_sessions_2.csv
+Download link: https://drive.google.com/file/d/1aINLwldcpax_9AIwp-Wh7iCin8R6U5tx/view?usp=sharing
+
+df_flights_2.csv
+Download link: https://drive.google.com/file/d/1H6vYtxixnZZOORoxXFtszwBfhot2a_DO/view?usp=sharing
+
+df_perks.csv
+Download link: https://drive.google.com/file/d/1qkMysCq4Uzn1Ap7IQxZOIq3_VvZDSt8k/view?usp=sharing
+
+users_features_2.csv
+Download link: https://drive.google.com/file/d/1mz1BKN3BWOWsr_YMZjpUjra-xnBNsHx9/view?usp=sharing
+
+df_hotels.csv
+Download link: https://drive.google.com/file/d/15-AVR_qcnY8Bu07O4uuxuXKqdytuF4Pr/view?usp=sharing
+
+---------------------------------------------------

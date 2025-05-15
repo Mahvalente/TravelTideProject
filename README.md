@@ -1,33 +1,25 @@
-# TravelTideProject
+# TravelTide Rewards Program Segmentation
 
-## 📊 Project Overview
-This project focuses on identifying key customer segments for TravelTide's rewards program, using behavioral data analysis and index-based segmentation.
+## Project Overview
+This project aims to support TravelTide's rewards program by identifying key customer segments based on behavioral patterns and matching them with the most suitable perks. The analysis focused on data from January 2023 onwards, using index-based segmentation.
 
-## 🗂️ Folder Structure
-- `/data`: Contains a file with download links to large datasets.
-- `/notebooks`: Jupyter Notebook with data processing & segmentation analysis.
-- `/reports`: Executive Summary & Detailed Report (PDFs).
-- `/dashboards`: Tableau screenshots for visual insights.
+## Folder Structure
+- `/data`: Contains all relevant CSV files used in the analysis.
+- `/notebooks`: Jupyter Notebook with data cleaning, feature engineering, and segmentation code.
+- `/reports`: Executive Summary and Detailed Report PDFs.
+- `/dashboards`: Tableau screenshots and dashboard link.
 
-## 📁 Large Data Files
-Due to GitHub's file size limitations, large CSV files are provided via external download links:
-- See `/data/data_links.txt` for Google Drive links.
+## Key Results
+- 5 customer segments identified: Comfort, Loyalty, Bargain, Adventure, Family.
+- Top 10% of users per segment selected for perk assignment.
+- Perk recommendations based on churn risk and user behavior.
+- Tableau dashboard used for interactive analysis.
 
-## 🧮 Methodology
-- Data from April 2021 to July 2023, focusing on 2023.
-- Users with ≥ 3 sessions were analyzed.
-- Index-based segmentation (Loyalty, Bargain, Comfort, Adventure, Family).
-- Top 10% of users per segment selected for perk allocation.
-
-## ✅ Key Findings
-- Comfort & Loyalty Seekers are key segments for long-term engagement.
-- Family & Bargain Seekers show higher churn risk → priority for reactivation.
-- Personalized perks were proposed per segment.
-
-## 🔧 Tools Used
+## Tools & Technologies
 - Python (Pandas, Scikit-learn, Matplotlib)
+- SQL
 - Tableau
 - GitHub
 
-## 📝 Author
+## Author
 Marcella Valente Ralser
