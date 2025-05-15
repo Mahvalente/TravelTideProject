@@ -7,10 +7,9 @@ This project identifies key customer segments for TravelTide’s rewards program
 - `/data`: Contains download links to large datasets.
 - `/notebooks`: Jupyter Notebook with data processing and segmentation analysis.
 - `/reports`: Executive Summary and Detailed Report (PDF).
-- `/dashboards`: Tableau screenshots of segment visualizations.
+- `/dashboards`: Tableau screenshot of Dashboard.
 
-## 📁 Large Data Files
-Due to GitHub file size limitations (>100MB), large datasets are provided via external download links.  
+## 📁 Data Files
 ➡️ See `/data/data_links.txt` for Google Drive links to:
 - df_sessions_2.csv
 - df_flights_2.csv
