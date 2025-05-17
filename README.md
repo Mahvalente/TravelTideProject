@@ -24,17 +24,17 @@ This project identifies key customer segments for TravelTide’s rewards program
 - Top 10% of users per segment selected for perk assignment.
 - Visual analysis with Tableau.
 
-## ✅ Key Findings
+## Key Findings
 - Comfort & Loyalty Seekers are the largest and most valuable segments.
 - Family & Bargain Seekers show higher churn risk → priority for reactivation.
 - Personalized perks per segment improve relevance and efficiency.
 
-## 🔧 Tools Used
+## Tools Used
 - SQL for data analysis.
 - Python (Pandas, Scikit-learn, Matplotlib) for data analysis & segmentation.
 - Tableau for interactive dashboards.
 - GitHub for project versioning & documentation.
 
 
-## 📝 Author
+## Author
 Marcella Valente Ralser
